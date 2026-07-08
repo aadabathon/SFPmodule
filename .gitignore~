@@ -1,4 +1,5 @@
 # no need to include schematics in repo
-docs/
+docs/*
+PCB_workdir/*
 
 #what else...
