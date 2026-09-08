@@ -1,6 +1,6 @@
 # SFP+ Carrier Board (mk2)
 
-![mk2.3 3D render](Screenshots/mk2.3-3d.png)
+![mk2 board](Screenshots/mk2.png)
 
 A 4-layer, 10 Gb/s SFP+ **interface/media board**. It holds an SFP+ module, powers it,
 routes the module's two high-speed differential pairs (TD±, RD±) out to 4× SMA coax, and
